@@ -1,0 +1,12 @@
+h1{
+    text-transform: uppercase;
+}
+*{
+    font-family: 'Times New Roman';
+}
+div#outer{
+font-size: 25px;
+}
+div#inner{
+    font-size: 15px;
+}

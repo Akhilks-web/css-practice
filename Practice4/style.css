@@ -1,0 +1,18 @@
+div{
+    height: 100px;
+    width: 100px;
+    border-width: 2px;
+    border-color: aquamarine;
+}
+.h{
+    background-color: red;
+}
+.c{
+    background-color: greenyellow;
+}
+.j{
+background-color: rgb(255,0,0,0.5);
+}
+p{
+    height:200px;
+}

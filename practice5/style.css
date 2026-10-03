@@ -1,0 +1,9 @@
+div{
+    color:aliceblue;
+    height: 100px;
+    width : 100px;
+    background-image: url("https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTXTzyPDo1Hkdt5LM8yw86gVJCqLEgihwV7lYzfJFGXUA&s=10");
+    position:fixed;
+    background-size: cover;
+    z-index: 1000;
+}
